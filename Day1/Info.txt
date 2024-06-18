@@ -1,0 +1,21 @@
+Cloud.
+General information.
+Spot Instances.
+Regions, zones.
+
+Azure Regions, Zones.
+Azure Virtual Machines.
+Azure Blob Storage.
+Azure Service Bus.
+Azure Event Grid.
+Azure Functions + Azure Durable Functions.
+Azure App Service.
+Azure Key Vault.
+Azure Cosmos DB.
+
+Azure active directory.
+Azure Container Apps.
+Azure DevOps.
+Cognitive Services.
+
+Clean Architecture, Azure Cloud Native application.
