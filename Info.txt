@@ -1,0 +1,5 @@
+Storage
+
+Azure Table
+Azure Queue
+Azure Blob*
