@@ -1,0 +1,117 @@
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\bin\Debug\net8.0\appsettings.Development.json
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\bin\Debug\net8.0\appsettings.json
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\bin\Debug\net8.0\CRUD_Blob.exe
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\bin\Debug\net8.0\CRUD_Blob.deps.json
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\bin\Debug\net8.0\CRUD_Blob.runtimeconfig.json
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\bin\Debug\net8.0\CRUD_Blob.dll
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\bin\Debug\net8.0\CRUD_Blob.pdb
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Azure.Core.dll
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Azure.Storage.Common.dll
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\bin\Debug\net8.0\System.ClientModel.dll
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\bin\Debug\net8.0\System.IO.Hashing.dll
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\bin\Debug\net8.0\System.Memory.Data.dll
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.csproj.AssemblyReference.cache
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.GeneratedMSBuildEditorConfig.editorconfig
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.AssemblyInfoInputs.cache
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.AssemblyInfo.cs
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.csproj.CoreCompileInputs.cache
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.MvcApplicationPartsAssemblyInfo.cs
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.MvcApplicationPartsAssemblyInfo.cache
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\obj\Debug\net8.0\staticwebassets.build.json
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\obj\Debug\net8.0\staticwebassets.development.json
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\obj\Debug\net8.0\staticwebassets\msbuild.CRUD_Blob.Microsoft.AspNetCore.StaticWebAssets.props
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\obj\Debug\net8.0\staticwebassets\msbuild.build.CRUD_Blob.props
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CRUD_Blob.props
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CRUD_Blob.props
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\obj\Debug\net8.0\staticwebassets.pack.json
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\obj\Debug\net8.0\scopedcss\bundle\CRUD_Blob.styles.css
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.csproj.CopyComplete
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.dll
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\obj\Debug\net8.0\refint\CRUD_Blob.dll
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.pdb
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.genruntimeconfig.cache
+D:\D\Study\Cloud Trainings\Blob Storage\CRUD_Blob\obj\Debug\net8.0\ref\CRUD_Blob.dll
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\bin\Debug\net8.0\appsettings.json
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\bin\Debug\net8.0\appsettings.Development.json
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\bin\Debug\net8.0\CRUD_Blob.exe
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\bin\Debug\net8.0\CRUD_Blob.deps.json
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\bin\Debug\net8.0\CRUD_Blob.runtimeconfig.json
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\bin\Debug\net8.0\CRUD_Blob.dll
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\bin\Debug\net8.0\CRUD_Blob.pdb
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Azure.Core.dll
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Azure.Storage.Common.dll
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\bin\Debug\net8.0\System.ClientModel.dll
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\bin\Debug\net8.0\System.IO.Hashing.dll
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\bin\Debug\net8.0\System.Memory.Data.dll
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.csproj.AssemblyReference.cache
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.GeneratedMSBuildEditorConfig.editorconfig
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.AssemblyInfoInputs.cache
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.AssemblyInfo.cs
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.csproj.CoreCompileInputs.cache
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.MvcApplicationPartsAssemblyInfo.cs
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.MvcApplicationPartsAssemblyInfo.cache
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\obj\Debug\net8.0\staticwebassets.build.json
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\obj\Debug\net8.0\staticwebassets.development.json
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\obj\Debug\net8.0\staticwebassets\msbuild.CRUD_Blob.Microsoft.AspNetCore.StaticWebAssets.props
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\obj\Debug\net8.0\staticwebassets\msbuild.build.CRUD_Blob.props
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CRUD_Blob.props
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CRUD_Blob.props
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\obj\Debug\net8.0\staticwebassets.pack.json
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\obj\Debug\net8.0\scopedcss\bundle\CRUD_Blob.styles.css
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.csproj.CopyComplete
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.dll
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\obj\Debug\net8.0\refint\CRUD_Blob.dll
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.pdb
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.genruntimeconfig.cache
+D:\D\Study\Cloud\Training\Day 2 Blob\Blob Storage\CRUD_Blob\obj\Debug\net8.0\ref\CRUD_Blob.dll
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\bin\Debug\net8.0\appsettings.Development.json
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\bin\Debug\net8.0\appsettings.json
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\bin\Debug\net8.0\CRUD_Blob.exe
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\bin\Debug\net8.0\CRUD_Blob.deps.json
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\bin\Debug\net8.0\CRUD_Blob.runtimeconfig.json
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\bin\Debug\net8.0\CRUD_Blob.dll
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\bin\Debug\net8.0\CRUD_Blob.pdb
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Azure.Core.dll
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Azure.Storage.Common.dll
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\bin\Debug\net8.0\System.ClientModel.dll
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\bin\Debug\net8.0\System.IO.Hashing.dll
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\bin\Debug\net8.0\System.Memory.Data.dll
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.csproj.AssemblyReference.cache
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.GeneratedMSBuildEditorConfig.editorconfig
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.AssemblyInfoInputs.cache
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.AssemblyInfo.cs
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.csproj.CoreCompileInputs.cache
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.MvcApplicationPartsAssemblyInfo.cs
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.MvcApplicationPartsAssemblyInfo.cache
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\obj\Debug\net8.0\staticwebassets.build.json
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\obj\Debug\net8.0\staticwebassets.development.json
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\obj\Debug\net8.0\staticwebassets\msbuild.CRUD_Blob.Microsoft.AspNetCore.StaticWebAssets.props
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\obj\Debug\net8.0\staticwebassets\msbuild.build.CRUD_Blob.props
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CRUD_Blob.props
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CRUD_Blob.props
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\obj\Debug\net8.0\staticwebassets.pack.json
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\obj\Debug\net8.0\scopedcss\bundle\CRUD_Blob.styles.css
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.csproj.CopyComplete
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.dll
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\obj\Debug\net8.0\refint\CRUD_Blob.dll
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.pdb
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\obj\Debug\net8.0\CRUD_Blob.genruntimeconfig.cache
+D:\D\Study\Cloud\Training\Day 2 Blob Storage\Blob Storage\CRUD_Blob\obj\Debug\net8.0\ref\CRUD_Blob.dll

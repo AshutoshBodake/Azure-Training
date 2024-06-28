@@ -1,0 +1,6 @@
+@CRUD_Blob_HostAddress = http://localhost:5140
+
+GET {{CRUD_Blob_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
