@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Blob_Crud_Operations.props" />
+</Project>

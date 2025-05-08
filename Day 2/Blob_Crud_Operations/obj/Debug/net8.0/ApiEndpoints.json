@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "Blob_Crud_Operations.Controllers.BlobController",
+    "Method": "DeleteBlob",
+    "RelativePath": "Blob/Delete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fileName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Blob_Crud_Operations.Controllers.BlobController",
+    "Method": "ListBlobs",
+    "RelativePath": "Blob/listblobs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Blob_Crud_Operations.Controllers.BlobController",
+    "Method": "UploadBlob",
+    "RelativePath": "Blob/Upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

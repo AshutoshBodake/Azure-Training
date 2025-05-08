@@ -1,0 +1,6 @@
+@Blob_Crud_Operations_HostAddress = http://localhost:5293
+
+GET {{Blob_Crud_Operations_HostAddress}}/Blob/
+Accept: application/json
+
+###
